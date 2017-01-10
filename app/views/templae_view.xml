@@ -1,0 +1,8 @@
+<Alloy>
+	<View></View>
+		<TableViewRow class="container" id="bigview">
+		<!-- <Label id="labelView1" class="lab"></Label> -->
+		<Label id="labelView2" class="lab" onClick="fun">fhdjk</Label>
+		</TableViewRow>
+	
+</Alloy>

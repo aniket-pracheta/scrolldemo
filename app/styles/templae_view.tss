@@ -1,0 +1,11 @@
+
+".container" : {
+	//layout:"horizontal",
+	backgroundColor:"blue",
+	height:"100dp"
+  
+}
+".lab":{
+
+	color:"black"
+}
